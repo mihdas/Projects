@@ -1,3 +1,3 @@
 # Projects
 
-Source codes of simple projects made during my time in university
+Source codes of simple projects made in university
