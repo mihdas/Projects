@@ -16,7 +16,7 @@ Server should return the following:
 ![graph1](images/graph1.png)
 ### Case 2
 **Input:**<br>
-![Input sample 1](images/input2.png)
+![Input sample 1](images/input2.png)<br>
 where, there is an adjacency matrix, 2 is the length of the path from node C to node A.
 Server should return the following:<br>
 - **Output 1**: No, there is no path of length 2 from node C to node A.
