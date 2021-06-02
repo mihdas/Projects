@@ -6,19 +6,19 @@ response.
 For simplicity, assume a 5-node graph with nodes named A, B, C, D, E.<br>
 For example: Let’s take a 3-node directed graph:<br>
 ##### Case 1
-**Input**:
+**Input**:<br>
 ![Input sample 2](images/input1.png)
 where, there is an adjacency matrix, 2 is the length of the path from node A to node C – that
 server has to check whether it exists or not.
 Server should return the following:
 - **Output 1**: Yes, there exists a path of length 2 from node A to node C.
-- **Output 2**: Graph:
+- **Output 2**: Graph:<br>
 ![graph1](images/graph1.png)
 ##### Case 2
-**Input:**
+**Input:**<br>
 ![Input sample 1](images/input2.png)
 where, there is an adjacency matrix, 2 is the length of the path from node C to node A.
 Server should return the following:<br>
-- **Output 1**: No, there is no path of length 2 from node C to node A.<br>
-- **Output 2**: Graph:
+- **Output 1**: No, there is no path of length 2 from node C to node A.
+- **Output 2**: Graph:<br>
 ![graph 2](images/graph2.png)
